@@ -22,6 +22,7 @@
   <div id="moreinfo">
     <div>July 5<sup>th</sup>-9<sup>th</sup> 2021</div>
     <div>Gdańsk, Poland</div>
+    <div>More information will be available soon.</div>
   </div>
 </div>
 
